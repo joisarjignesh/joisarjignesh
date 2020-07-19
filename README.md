@@ -1,7 +1,3 @@
-### Hi there 👋
-
-**joisarjignesh/joisarjignesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi there, I'm [Jignesh!](jigneshjoisar.web.app) 👋
 
 <a href="https://codesandbox.io/u/anuraghazra">
