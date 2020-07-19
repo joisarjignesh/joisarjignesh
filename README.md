@@ -1,14 +1,13 @@
 ### Hi there, I'm [Jignesh!](jigneshjoisar.web.app) 👋
 
-<a href="https://codesandbox.io/u/anuraghazra">
-  <img align="left" alt="Jignesh Joisar | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/codesandbox.svg" />
-</a>
 <a href="https://twitter.com/joisarjignesh">
   <img align="left" alt="Jignesh Joisar | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 <a href="https://discord.com/joisarjignesh#2955">
   <img align="left" alt="Jignesh Joisar Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
+
+![](https://visitor-badge.glitch.me/badge?page_id=joisarjignesh.joisarjignesh)
 
 <br />
 <br />
@@ -75,4 +74,4 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
 <a href="https://www.codechef.com/users/hemant_x">
   <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
 </a>
-![visitors](https://visitor-badge.glitch.me/badge?page_id=joisarjignesh.bigbluebutton)
+
