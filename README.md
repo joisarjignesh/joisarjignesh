@@ -42,30 +42,26 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
 ###  Blogs 🌱
 
 <p align="center">
-<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0yLjg0NiA2Ljg4N2MuMDMtLjI5NS0uMDgzLS41ODYtLjMwMy0uNzg0bC0yLjI0LTIuN3YtLjQwM2g2Ljk1OGw1LjM3OCAxMS43OTUgNC43MjgtMTEuNzk1aDYuNjMzdi40MDNsLTEuOTE2IDEuODM3Yy0uMTY1LjEyNi0uMjQ3LjMzMy0uMjEzLjUzOHYxMy40OThjLS4wMzQuMjA0LjA0OC40MTEuMjEzLjUzN2wxLjg3MSAxLjgzN3YuNDAzaC05LjQxMnYtLjQwM2wxLjkzOS0xLjg4MmMuMTktLjE5LjE5LS4yNDYuMTktLjUzN3YtMTAuOTFsLTUuMzg5IDEzLjY4OGgtLjcyOGwtNi4yNzUtMTMuNjg4djkuMTc0Yy0uMDUyLjM4NS4wNzYuNzc0LjM0NyAxLjA1MmwyLjUyMSAzLjA1OHYuNDA0aC03LjE0OHYtLjQwNGwyLjUyMS0zLjA1OGMuMjctLjI3OS4zOS0uNjcuMzI1LTEuMDUydi0xMC42MDh6Ii8+PC9zdmc+">
+  <a href="https://medium.com/@joisarjignesh">
+    <img src="https://github.com/joisarjignesh/joisarjignesh/blob/master/assets/icon/medium.svg">
+  </a>  
 </p>
 
 
 <br/>
-<a href="https://twitter.com/8bithemant">
+<a href="https://twitter.com/joisarjignesh">
   <img align="left" alt="Hemant Joshi| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/hemant-j-85518a195/">
+<a href="https://www.linkedin.com/in/joisarjignesh/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/ihemantjoshi">
+<a href="https://t.me/joisarjignesh">
   <img align="left" alt="Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/hemant.gz/">
+<a href="https://www.instagram.com/jigneshjoisar">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user//">
-  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
-</a>
-<a href="https://leetcode.com//">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/hemant_x">
-  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+<a href="https://stackoverflow.com/users/4101154/jignesh-joisar">
+  <img align="left" alt=" Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />
 </a>
 
