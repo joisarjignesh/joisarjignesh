@@ -10,7 +10,6 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=joisarjignesh.joisarjignesh)
 
 <br />
-<br />
 
 Hi, I’m an Indian full stack developer with 6 years of experience. I’m a passionate learner and playing cricket, currently interested in AI and flutter. I'm currently living in Jamnagar, India. My favorite development stack at the moment is Laravel, Vue, MongoDB, Mysql, Redis and Arch linux are. Try to keep things DRY and well-documented and when possible.
 
@@ -33,8 +32,11 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
 
 <a href="https://github.com/joisarjignesh">
   <img align="left" src="https://github-readme-stats-iota.vercel.app/api/pin/?username=joisarjignesh&repo=bigbluebutton&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
+</a><br/>  
 
+<br />
+<br />
+<br />
 ### - Blogs 🌱
 
 <p align="center">
