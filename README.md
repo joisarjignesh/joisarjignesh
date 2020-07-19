@@ -39,10 +39,10 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
 <br />
 <br />
 
-### - Blogs 🌱
+###  Blogs 🌱
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/blogs/devto.svg"> 
+<img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiPjxwYXRoIGQ9Ik0yLjg0NiA2Ljg4N2MuMDMtLjI5NS0uMDgzLS41ODYtLjMwMy0uNzg0bC0yLjI0LTIuN3YtLjQwM2g2Ljk1OGw1LjM3OCAxMS43OTUgNC43MjgtMTEuNzk1aDYuNjMzdi40MDNsLTEuOTE2IDEuODM3Yy0uMTY1LjEyNi0uMjQ3LjMzMy0uMjEzLjUzOHYxMy40OThjLS4wMzQuMjA0LjA0OC40MTEuMjEzLjUzN2wxLjg3MSAxLjgzN3YuNDAzaC05LjQxMnYtLjQwM2wxLjkzOS0xLjg4MmMuMTktLjE5LjE5LS4yNDYuMTktLjUzN3YtMTAuOTFsLTUuMzg5IDEzLjY4OGgtLjcyOGwtNi4yNzUtMTMuNjg4djkuMTc0Yy0uMDUyLjM4NS4wNzYuNzc0LjM0NyAxLjA1MmwyLjUyMSAzLjA1OHYuNDA0aC03LjE0OHYtLjQwNGwyLjUyMS0zLjA1OGMuMjctLjI3OS4zOS0uNjcuMzI1LTEuMDUydi0xMC42MDh6Ii8+PC9zdmc+">
 </p>
 
 
