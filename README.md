@@ -38,16 +38,11 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 --->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-[![Anurag's github stats](https://github-readme-stats.lalpur.vercel.app/api?username=lalpur&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
+[![Jignesh's github stats](https://github-readme-stats-iota.vercel.app/api?username=joisarjignesh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/joisarjignesh/bigbluebutton)
 
-<a href="https://github.com/lalpur">
+<a href="https://github.com/joisarjignesh">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.lalpur.vercel.app/api/pin/?username=lalpur&repo=github-readme-stats&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-</a>
-
-<a href="jigneshjoisar.web.app">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="left" src="https://github-readme-stats.lalpur.vercel.app/api/pin/?username=lalpur&repo=jigneshjoisar.web.app&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats-iota.vercel.app/api/pin/?username=joisarjignesh&repo=bigbluebutton&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a>
 
 
