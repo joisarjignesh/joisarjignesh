@@ -1,6 +1,6 @@
 ### Hi there, I'm [Jignesh!](https://jigneshjoisar.web.app) 👋
 
-![](https://visitor-badge.glitch.me/badge?page_id=joisarjignesh.joisarjignesh)
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joisarjignesh.joisarjignesh)
 
 <br />
 
