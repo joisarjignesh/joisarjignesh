@@ -1,11 +1,17 @@
 ### Hi there, I'm [Jignesh!](https://jigneshjoisar.web.app) 👋
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joisarjignesh.joisarjignesh)
+[![Twitter: joisarjignesh](https://img.shields.io/twitter/follow/joisarjignesh?style=social)](https://twitter.com/joisarjignesh)
+[![Linkedin: joisarjignesh](https://img.shields.io/badge/-joisarjignesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joisarjignesh/)](https://www.linkedin.com/in/joisarjignesh/)
+[![GitHub joisarjignesh](https://img.shields.io/github/followers/joisarjignesh?label=follow&style=social)](https://github.com/joisarjignesh)
 
 <br />
 
-Hi, I’m an Indian full stack developer with 6 years of experience. I’m a passionate learner and playing cricket, currently interested in AI and flutter. I'm currently living in Jamnagar, India. My favorite development stack at the moment is Laravel, Vue, MongoDB, Mysql, Redis and Arch linux are. Try to keep things DRY and well-documented and when possible.
+Hi, I am an Indian full stack developer with 7 years of experience. I’m a passionate learner and playing cricket, currently interested in AI and flutter. I'm currently living in Jamnagar, India. My favorite development stack at the moment is Laravel, Vue, MongoDB, Mysql, Redis and Arch linux are. Try to keep things DRY and well-documented and when possible.
 
+I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
+
+- 💼 any freelance work? do reach, [email](mailto:jigneshjoisar@gmail.com) :)
 - 🔭 I’m currently working on my project [Bigbluebutton](https://github.com/joisarjignesh/bigbluebutton)
 - 🌱 I’m currently learning Flutter & Vue3
 - 👯 I’m looking to collaborate on [Laravel Bigbluebutton](https://github.com/joisarjignesh/bigbluebutton)
@@ -50,3 +56,5 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
     <img src="https://github.com/joisarjignesh/joisarjignesh/blob/master/assets/icon/medium.svg">
 </a> 
 </p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
