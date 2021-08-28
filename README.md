@@ -27,8 +27,8 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joisarjignesh&" alt="joisarjignesh" /></p>
 
 <br />
-<br />
-<br />
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 <a href="https://twitter.com/joisarjignesh">
   <img align="left" alt="Jignesh Joisar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -47,4 +47,4 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
 <a href="https://medium.com/@joisarjignesh">
     <img src="https://github.com/joisarjignesh/joisarjignesh/blob/master/assets/icon/medium.svg">
 </a> 
-
+</p>
