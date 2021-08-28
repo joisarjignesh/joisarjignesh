@@ -17,26 +17,18 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
   <img align="left" src="https://github-readme-stats-eight-pi.vercel.app/api/pin/?username=joisarjignesh&repo=bigbluebutton&theme=algolia" />
 </a><br/>  
 
-<a href="https://jigneshjoisar.web.app">
-  <img align="left" src="https://github-readme-stats-eight-pi.vercel.app/api/top-langs/?username=joisarjignesh&theme=vue-dark" />
-</a><br/>  
-
-
+<br />
+<br />
 <br />
 <br />
 <br />
 <br />
 
-###  Blogs 🌱
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joisarjignesh&" alt="joisarjignesh" /></p>
 
-<p align="center">
-  <a href="https://medium.com/@joisarjignesh">
-    <img src="https://github.com/joisarjignesh/joisarjignesh/blob/master/assets/icon/medium.svg">
-  </a>  
-</p>
-
-
-<br/>
+<br />
+<br />
+<br />
 <a href="https://twitter.com/joisarjignesh">
   <img align="left" alt="Jignesh Joisar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -52,4 +44,7 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
 <a href="https://stackoverflow.com/users/4101154/jignesh-joisar">
   <img align="left" alt="Jignesh Joisar | Stackoverflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg"  />
 </a>
+<a href="https://medium.com/@joisarjignesh">
+    <img src="https://github.com/joisarjignesh/joisarjignesh/blob/master/assets/icon/medium.svg">
+</a> 
 
