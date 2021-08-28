@@ -16,7 +16,11 @@ I am also an open-source enthusiast and maintainer. i learned a lot from the ope
 - 👯 I’m looking to collaborate on [Laravel Bigbluebutton](https://github.com/joisarjignesh/bigbluebutton)
 - 💬 Ask me about anything [here](https://github.com/joisarjignesh/joisarjignesh/issues)
 
+[![Jignesh Joisar StackOverflow](https://github-readme-stackoverflow-vercel-joisarjignesh.vercel.app/?userID=4101154&theme=dark)](https://stackoverflow.com/users/4101154/jignesh-joisar)
+
 [![Jignesh's github stats](https://github-readme-stats-eight-pi.vercel.app/api?username=joisarjignesh&show_icons=true&theme=radical)](https://jigneshjoisar.web.app/)
+
+
 
 <a href="https://github.com/joisarjignesh/bigbluebutton">
   <img align="left" src="https://github-readme-stats-eight-pi.vercel.app/api/pin/?username=joisarjignesh&repo=bigbluebutton&theme=algolia" />
