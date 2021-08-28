@@ -14,7 +14,7 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
 [![Jignesh's github stats](github-readme-stats-vercel-joisarjignesh.vercel.app/api?username=joisarjignesh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://jigneshjoisar.web.app/)
 
 <a href="https://github.com/joisarjignesh/bigbluebutton">
-  <img align="left" src="github-readme-stats-vercel-sand.vercel.app/api/pin/?username=joisarjignesh&repo=bigbluebutton&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats-vercel-sand.vercel.app/api/pin/?username=joisarjignesh&repo=bigbluebutton&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
 </a><br/>  
 
 <br />
