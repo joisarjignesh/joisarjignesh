@@ -11,7 +11,7 @@ Hi, I’m an Indian full stack developer with 6 years of experience. I’m a pas
 - 👯 I’m looking to collaborate on [Laravel Bigbluebutton](https://github.com/joisarjignesh/bigbluebutton)
 - 💬 Ask me about anything [here](https://github.com/joisarjignesh/joisarjignesh/issues)
 
-[![Jignesh's github stats](https://github-readme-stats-vercel-sand.vercel.app/api?username=joisarjignesh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://jigneshjoisar.web.app/)
+[![Jignesh's github stats](https://github-readme-stats-vercel-6rkilqt92-joisarjignesh.vercel.app/api?username=joisarjignesh&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://jigneshjoisar.web.app/)
 
 <a href="https://github.com/joisarjignesh/bigbluebutton">
   <img align="left" src="https://github-readme-stats-vercel-sand.vercel.app/api/pin/?username=joisarjignesh&repo=bigbluebutton&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
