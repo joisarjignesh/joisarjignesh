@@ -1,4 +1,4 @@
-### Hi there, I'm [Jignesh!](https://jigneshjoisar.web.app) 👋
+### Hi there, I'm [Jignesh Joisar!](https://jigneshjoisar.web.app) 👋
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=joisarjignesh.joisarjignesh)
 [![Twitter: joisarjignesh](https://img.shields.io/twitter/follow/joisarjignesh?style=social)](https://twitter.com/joisarjignesh)
