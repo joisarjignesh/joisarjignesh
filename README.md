@@ -6,7 +6,7 @@
 [![GitHub joisarjignesh](https://img.shields.io/github/followers/joisarjignesh?label=follow&style=social)](https://github.com/joisarjignesh)
 
 
-Hi, I am an Indian full stack developer with 7 years of experience. I’m a passionate learner and playing cricket, currently interested in AI and flutter. I'm currently living in Jamnagar, India. My favorite development stack at the moment is Laravel, Vue, MongoDB, Mysql, Redis and Arch linux are. Try to keep things DRY and well-documented and when possible.
+Hi, I am an Indian full stack developer with 8 years of experience. I’m a passionate learner and playing cricket, currently interested in AI and flutter. I'm currently living in Jamnagar, India. My favorite development stack at the moment is Laravel, Vue, MongoDB, Mysql, Redis and Arch linux are. Try to keep things DRY and well-documented and when possible.
 
 I am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
